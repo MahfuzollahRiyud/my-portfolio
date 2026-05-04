@@ -1,0 +1,21 @@
+body{
+    .iceberg-regular {
+  font-family: "Iceberg", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+}
+.my-name{
+    color: orange;
+}
+
+.sec1-item{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.sec1-item img{
+    width: 50%;
+}
